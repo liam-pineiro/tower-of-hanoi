@@ -1,1 +1,1 @@
-# tower-of-hanoi
+simulates the math game Tower of Hanoi
